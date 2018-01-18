@@ -12,7 +12,6 @@ body{
     background-color:#ebebeb;
     height:100px;
     margin-top:10px;
-    
 }
 
 .header,.nav,.footer{
@@ -36,6 +35,7 @@ body{
     margin-bottom:10px;
     float:left;
     width:490px;
+    color:#777;
 }
 
 #aside{
@@ -63,18 +63,17 @@ body{
 
 #article,#headers,#p{
     background-color:#777;
+    height:75px;
 }
 
 .article{
     color:#ebebeb;
-    line-height: 102px;
-    vertical-align: middle;
+
 }
 .headers,.p{
     background-color:#ebebeb;
     width:200px;
-    line-height: 61px;
-    vertical-align: middle;
+    height:20px;
 }
 
 
